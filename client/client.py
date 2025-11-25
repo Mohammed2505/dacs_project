@@ -126,3 +126,4 @@ if __name__ == "__main__":
 
         # Step 3: Send signature back
         send_signature(username, signature_b64)
+
